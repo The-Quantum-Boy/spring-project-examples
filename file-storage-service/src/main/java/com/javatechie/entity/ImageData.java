@@ -4,6 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import org.hibernate.annotations.Type;
 
 import javax.persistence.*;
 
@@ -21,6 +22,7 @@ public class ImageData {
     private String name;
     private String type;
     @Lob
+    @Type(type = "org.hibernate.type.ImageType")
     @Column(name = "imagedata",length = 1000)
     private byte[] imageData;
 }
