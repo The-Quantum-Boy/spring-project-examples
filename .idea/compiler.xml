@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="r2dbc-multiple-database2" />
+        <module name="file-upload" />
+        <module name="Spring-ManyToMany" />
+        <module name="DatabaseConfiguration" />
+        <module name="Spring-Boot-IOC2" />
+        <module name="R2DBC (2)" />
+        <module name="solid-principle-example" />
+        <module name="SpringBoot" />
+        <module name="spring-boot-webflux" />
+        <module name="web-server" />
+        <module name="spring-data-auditing-example" />
+        <module name="spring-data-auditing" />
+        <module name="spring-data-envers-auditing" />
+        <module name="Spring-Boot-Record" />
+        <module name="JPA-Two-Database (1)" />
+        <module name="Spring-Boot-JPA" />
+        <module name="spring-data-jpa-pagsort" />
+        <module name="R2DBC2" />
+        <module name="R2DBC1" />
+        <module name="JPA-Transaction-Magnt-2" />
+        <module name="r2dbc (1)" />
+        <module name="JPA-Transaction" />
+        <module name="multipleDB" />
+        <module name="storage-service" />
+        <module name="spring-data-jpa-ashokit" />
+        <module name="Spring-Data-JPA-RelationShip" />
+        <module name="spring-data-jpa-QueryDSL" />
+        <module name="JPA-Two-Database (2)" />
+        <module name="Spring-Boot-IOC" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="authentication-service" target="17" />
+      <module name="JPA-Two-Database" target="17" />
+      <module name="R2DBC" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="DatabaseConfiguration" options="-parameters" />
+      <module name="JPA-Transaction" options="-parameters" />
+      <module name="JPA-Transaction-Magnt-2" options="-parameters" />
+      <module name="JPA-Two-Database" options="-parameters" />
+      <module name="JPA-Two-Database (1)" options="-parameters" />
+      <module name="JPA-Two-Database (2)" options="-parameters" />
+      <module name="R2DBC" options="-parameters" />
+      <module name="R2DBC (2)" options="-parameters" />
+      <module name="R2DBC1" options="-parameters" />
+      <module name="R2DBC2" options="-parameters" />
+      <module name="Spring-Boot-IOC" options="-parameters" />
+      <module name="Spring-Boot-IOC2" options="-parameters" />
+      <module name="Spring-Boot-JPA" options="-parameters" />
+      <module name="Spring-Boot-Record" options="-parameters" />
+      <module name="Spring-Data-JPA-RelationShip" options="-parameters" />
+      <module name="Spring-ManyToMany" options="-parameters" />
+      <module name="SpringBoot" options="-parameters" />
+      <module name="authentication-service" options="-parameters" />
+      <module name="file-upload" options="-parameters" />
+      <module name="multipleDB" options="-parameters" />
+      <module name="r2dbc (1)" options="-parameters" />
+      <module name="r2dbc-multiple-database2" options="-parameters" />
+      <module name="spring-boot-webflux" options="-parameters" />
+      <module name="spring-data-auditing" options="-parameters" />
+      <module name="spring-data-auditing-example" options="-parameters" />
+      <module name="spring-data-envers-auditing" options="-parameters" />
+      <module name="spring-data-jpa-QueryDSL" options="-parameters" />
+      <module name="spring-data-jpa-ashokit" options="-parameters" />
+      <module name="spring-data-jpa-pagsort" options="-parameters" />
+      <module name="storage-service" options="-parameters" />
+      <module name="web-server" options="-parameters" />
+    </option>
+  </component>
+</project>

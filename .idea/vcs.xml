@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JPA-Transaction-Magnt-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JPA-Transaction-Magnt-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JPA-Two-Database" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/multiple-database-configuration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/solid-principles-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-data-auditing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-data-auditing-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-data-envers-auditing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-data-jpa-QueryDSL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-data-jpa-ashokit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-data-jpa-pagsort" vcs="Git" />
+  </component>
+</project>

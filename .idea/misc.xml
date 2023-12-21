@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/JPA-Two-Database/pom.xml" />
+        <option value="$PROJECT_DIR$/authentication-service/pom.xml" />
+        <option value="$PROJECT_DIR$/DatabaseConfiguration/pom.xml" />
+        <option value="$PROJECT_DIR$/JPA-Transaction-Magnt-1/pom.xml" />
+        <option value="$PROJECT_DIR$/JPA-Transaction-Magnt-2/pom.xml" />
+        <option value="$PROJECT_DIR$/multiple-database-configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/multiple-database-configuration2/pom.xml" />
+        <option value="$PROJECT_DIR$/R2DBC/pom.xml" />
+        <option value="$PROJECT_DIR$/r2dbc-multiple-database-master/pom.xml" />
+        <option value="$PROJECT_DIR$/R2DBC1/pom.xml" />
+        <option value="$PROJECT_DIR$/solid-principles-example/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Boot-IOC/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Boot-IOC2/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Boot-JPA/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Boot-Record/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-webflux/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-data-auditing/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-data-auditing-example/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-data-envers-auditing/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Data-JPA/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-data-jpa-ashokit/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-data-jpa-pagsort/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-data-jpa-QueryDSL/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-ManyToMany/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot/pom.xml" />
+        <option value="$PROJECT_DIR$/web-server/pom.xml" />
+        <option value="$PROJECT_DIR$/r2dbc-multiple-database2/pom.xml" />
+        <option value="$PROJECT_DIR$/R2DBC2/pom.xml" />
+        <option value="$PROJECT_DIR$/file-upload/pom.xml" />
+        <option value="$PROJECT_DIR$/file-storage-service/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/authentication-service/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="18" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

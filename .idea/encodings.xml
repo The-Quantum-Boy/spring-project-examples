@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/DatabaseConfiguration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JPA-Transaction-Magnt-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JPA-Transaction-Magnt-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JPA-Two-Database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/R2DBC/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/R2DBC1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/R2DBC2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Boot-IOC/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Boot-IOC2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Boot-JPA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Boot-Record/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Data-JPA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-ManyToMany/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/authentication-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/file-storage-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/file-upload/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/multiple-database-configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/multiple-database-configuration2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r2dbc-multiple-database-master/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/r2dbc-multiple-database2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-webflux/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-data-auditing-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-data-auditing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-data-envers-auditing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-data-jpa-QueryDSL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-data-jpa-ashokit/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-data-jpa-pagsort/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-server/src/main/java" charset="UTF-8" />
+  </component>
+</project>
